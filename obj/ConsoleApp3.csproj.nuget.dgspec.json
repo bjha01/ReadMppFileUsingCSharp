@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bjha\\OneDrive - Prudentia\\VS code\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bjha\\OneDrive - Prudentia\\VS code\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bjha\\OneDrive - Prudentia\\VS code\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectName": "ConsoleApp3",
+        "projectPath": "C:\\Users\\bjha\\OneDrive - Prudentia\\VS code\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "packagesPath": "C:\\Users\\bjha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjha\\OneDrive - Prudentia\\VS code\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bjha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ADO.Net.Client.Core": {
+              "target": "Package",
+              "version": "[1.4.5, )"
+            },
+            "Aspose.Tasks": {
+              "target": "Package",
+              "version": "[22.12.0, )"
+            },
+            "Gelf4Net.Core": {
+              "target": "Package",
+              "version": "[1.0.0.21, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "net.sf.mpxj": {
+              "target": "Package",
+              "version": "[10.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
